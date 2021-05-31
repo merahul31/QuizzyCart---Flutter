@@ -25,4 +25,4 @@ Your final result with the number of correct and wrong answers is shown using a 
 
 <img src="/readme_images/3.jpg" width="250">
 
-## You can modify the app by randomizing the questions or you can introduce some more questions in the quiz_brain file.
+## You can modify the app by randomizing the questions or you can add some more questions in the quiz_brain file.
